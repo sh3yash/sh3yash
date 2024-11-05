@@ -14,7 +14,7 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 - 🎤 I love sharing knowledge through blog posts
 
 - 🌱 I’m always exploring new technologies and open-source contributions.
-- 💻 I'm skilled in developing full-stack applications, solving algorithmic challenges, and working on backend services.
+- 💻 I'm skilled in developing full-stack applications and solving algorithmic challenges.
 - 📌 I am passionate about web development, cloud computing, open-source, and community work.
 
 ---
