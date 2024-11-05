@@ -22,8 +22,10 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 ## Featured Projects 🚀
 
 - **Beauty E-Commerce Platform** - Built with MERN Stack and other libraries.
-- **Plant Disease Recognition System** - AIML project which can detect the disease withing the plant after scanning it
-  **Agriculture Financial Advisor** - Automates the finance related problem related to agriculture or farmers including loans, finances, schemes, personalised consultation etch
+
+- **Plant Disease Recognition System** - AIML project which can detect the disease withing the plant after scanning it.
+
+- **Agriculture Financial Advisor** - Automates the finance related problem related to agriculture or farmers including loans, finances, schemes, personalised consultation etc.
 
 
 ---
