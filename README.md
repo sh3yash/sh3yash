@@ -22,13 +22,10 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 ## Featured Projects 🚀
 
--
-- **Realtime Chat App** - Built with HTML, CSS, JavaScript, Bootstrap, Spring Boot.
-- **Journal App** - A personal journal app using SpringBoot MongoDB and Kafka for data storage and message handling.
- **Student Grading System** - Automates student grade calculations using Java.
-- **Stock Trading Platform** - Implements core trading functionalities.
+- **Beauty Ecommerce Platform** - Built using MERN Stack and integrate features like personalized Chatbot.
+- **Plant Disease Recognition Project** - Developed using AIML which recognizes the disease in a plant after scanning it.
+ **Agriculture Financial Advisor** - Automates the financial process related to agriculture built using MERN Stack.
 
----
 
 
 
@@ -40,25 +37,25 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cratesium&label=Profile%20views&color=0e75b6&style=flat" alt="yash sharma" /> </p>
 
-- 🔭 I’m currently working on **Journal Application**
+- 🔭 I’m currently working on **Agriculture Financial Advisor**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Real Time Chat Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cratesium?tab=repositories](https://github.com/cratesium?tab=repositories)
+- 👨‍💻 All of my projects are available at [[https://github.com/cratesium?tab=repositories](https://github.com/sh3yash?tab=repositories)]
 
-- 💬 Ask me about **Java Core ,kafka ,Mongoldb ,sql ,DSA**
+- 💬 Ask me about **MERN Stack ,C++ ,Git ,SQL ,DSA**
 
-- 📫 How to reach me **cratesium@outlook.com**
+- 📫 How to reach me **sharmayash3343@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Me6ccuA7KhgmoPkf85yQsTZUaqTCBI3-/view?usp=sharing](https://drive.google.com/file/d/1Me6ccuA7KhgmoPkf85yQsTZUaqTCBI3-/view?usp=sharing)
+- 📄 Know about my experiences [https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy80OGI1Y2UxOTUzYmU3YWNkL0VWUzJEaGsxRU4xTXBXVHJqdDNCXzlzQmFZQ29KakRhdVpiZ1BIREZ0ZWY4VWc&cid=48B5CE1953BE7ACD&id=48B5CE1953BE7ACD%21s190eb65410354cdda564eb8eddc1ffdb&parId=48B5CE1953BE7ACD%21s7a5d8e1953214bca86bfc811c0caf37f&o=OneUp]([https://drive.google.com/file/d/1Me6ccuA7KhgmoPkf85yQsTZUaqTCBI3-/view?usp=sharing](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy80OGI1Y2UxOTUzYmU3YWNkL0VWUzJEaGsxRU4xTXBXVHJqdDNCXzlzQmFZQ29KakRhdVpiZ1BIREZ0ZWY4VWc&cid=48B5CE1953BE7ACD&id=48B5CE1953BE7ACD%21s190eb65410354cdda564eb8eddc1ffdb&parId=48B5CE1953BE7ACD%21s7a5d8e1953214bca86bfc811c0caf37f&o=OneUp))
 
 - ⚡ Fun fact **I Love to learn Cosmology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shikhar-pratap-singh-09a9b322a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhar-pratap-singh-09a9b322a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sh3yash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhar-pratap-singh-09a9b322a" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/csc_2021b0121053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="csc_2021b0121053" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cratesium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cratesium" height="30" width="40" /></a>
