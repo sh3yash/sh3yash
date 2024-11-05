@@ -13,7 +13,6 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 - 🎤 I love sharing knowledge through blog posts
 
-
 - 🌱 I’m always exploring new technologies and open-source contributions.
 - 💻 I'm skilled in developing full-stack applications, solving algorithmic challenges, and working on backend services.
 - 📌 I am passionate about web development, cloud computing, open-source, and community work.
@@ -25,18 +24,12 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 -
 - **Realtime Chat App** - Built with HTML, CSS, JavaScript, Bootstrap, Spring Boot.
 - **Journal App** - A personal journal app using SpringBoot MongoDB and Kafka for data storage and message handling.
- **Student Grading System** - Automates student grade calculations using Java.
+  **Student Grading System** - Automates student grade calculations using Java.
 - **Stock Trading Platform** - Implements core trading functionalities.
 
 ---
 
-
-
 ---
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh3yash&label=Profile%20views&color=0e75b6&style=flat" alt="yash sharma" /> </p>
 
@@ -62,6 +55,7 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 <a href="https://www.hackerrank.com/profile/CSC_2021b0121138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CSC_2021b0121138" height="30" width="40" /></a>
 <a href="https://leetcode.com/yash_sharma33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_sharma33" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
