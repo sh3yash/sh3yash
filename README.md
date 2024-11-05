@@ -21,13 +21,10 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 ## Featured Projects 🚀
 
--
-- **Realtime Chat App** - Built with HTML, CSS, JavaScript, Bootstrap, Spring Boot.
-- **Journal App** - A personal journal app using SpringBoot MongoDB and Kafka for data storage and message handling.
-  **Student Grading System** - Automates student grade calculations using Java.
-- **Stock Trading Platform** - Implements core trading functionalities.
+- **Beauty E-Commerce Platform** - Built with MERN Stack and other libraries.
+- **Plant Disease Recognition System** - AIML project which can detect the disease withing the plant after scanning it
+  **Agriculture Financial Advisor** - Automates the finance related problem related to agriculture or farmers including loans, finances, schemes, personalised consultation etch
 
----
 
 ---
 
