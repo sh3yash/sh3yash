@@ -34,7 +34,7 @@ I am Yash Sharma, a final-year B.Tech Computer Science student passionate about 
 
 - 🔭 I’m currently working on **Agriculture Financial Advisor**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and DotNET Core**
 
 - 👯 I’m looking to collaborate on **Real Time Chat Application**
 
